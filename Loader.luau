@@ -1,7 +1,7 @@
 --!nocheck
 local Players = game:GetService("Players")
 
-local BASE_URL = 'https://raw.githubusercontent.com/syafaatr582-afk/Furmix/refs/heads/main/Games/'
+local BASE_URL = 'https://raw.githubusercontent.com/markehfouh/Furmix/refs/heads/main/Games/'
 
 local PLACE_SCRIPTS = {
     [119423923767111] = "RunToStealAnimals.lua",
