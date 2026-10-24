@@ -362,7 +362,7 @@ end
 local IconAssets = {}
 do
 	local urls = {
-		"https://diser.me/VerUI/icons.lua",
+		"https://raw.githubusercontent.com/Footagesus/Icons/main/Main-v2.lua",
 		"https://raw.githubusercontent.com/dawid-scripts/Fluent/refs/heads/master/src/Icons.lua",
 	}
 
