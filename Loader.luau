@@ -7,6 +7,7 @@ local PLACE_SCRIPTS = {
     [119423923767111] = "RunToStealAnimals.lua",
     [74023858073178] = "BikeForEggs.lua",
     [9872472334] = "Evade.lua",
+    [107714789205199] = "StealFromGods.lua",
 }
 
 local function loadScript(url)
